@@ -1,16 +1,15 @@
 <div align="center">
-    <h1>🎪FRENCH PROJECT NAME HERE🎪</h1>
-    <img src="logo.png" width="230">
+    <h1>Exploration des Fonctions</h1>
+    <img src="logo.webp" width="230">
     <br/>
 
-[Voir la version anglaise](./README.md)
+[See the English version](./README.md)
 
 </div>
 
-
 ## Description
 
-UPDATE WITH FRENCH DESCRIPTION
+Expérimentation avec des modèles de déploiement utilisant les fonctions Azure.
 
 ## Droits d’auteur
 
