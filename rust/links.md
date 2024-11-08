@@ -3,3 +3,6 @@ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/service_plan
 https://github.com/microsoft/vscode-azurefunctions/issues/3657
 https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan
+
+https://github.com/eyre-rs/eyre
+https://github.com/poem-web/poem
